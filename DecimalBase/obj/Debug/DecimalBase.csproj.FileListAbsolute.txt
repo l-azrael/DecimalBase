@@ -1,0 +1,6 @@
+F:\VSCode\DecimalBase\DecimalBase\bin\Debug\DecimalBase.exe.config
+F:\VSCode\DecimalBase\DecimalBase\bin\Debug\DecimalBase.exe
+F:\VSCode\DecimalBase\DecimalBase\bin\Debug\DecimalBase.pdb
+F:\VSCode\DecimalBase\DecimalBase\obj\Debug\DecimalBase.csprojResolveAssemblyReference.cache
+F:\VSCode\DecimalBase\DecimalBase\obj\Debug\DecimalBase.exe
+F:\VSCode\DecimalBase\DecimalBase\obj\Debug\DecimalBase.pdb
